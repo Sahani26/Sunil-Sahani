@@ -1,5 +1,3 @@
-# Sunil-Sahani
-# Sunil-Sahani
 # Hi there, I'm Sunil Sahani! 👋
 
 I'm a passionate **Full-Stack Developer** with 6 months of hands-on experience in building dynamic and responsive web applications. I enjoy creating seamless and efficient user experiences, from the front-end to the back-end.
