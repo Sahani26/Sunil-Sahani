@@ -16,13 +16,13 @@ I'm a passionate **Full-Stack Developer** with 6 months  of hands-on experience 
 
 ### 💡 Projects
 Here are a few projects I've worked on:
-- **[Project 1](#)**: Brief description of the project.
+- **[Project 1](www.com)**: Brief description of the project.
 - **[Project 2](#)**: Brief description of the project.
 - **[Project 3](#)**: Brief description of the project.
 
 ### 📫 How to Reach Me
 - **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** [your.email@example.com](mailto:sunilsahani484.com)
+- **Email:** [sunilsahani484.com](mailto:sunilsahani484.com)
 
 ### ⚡ Fun Fact
 I love solving puzzles and often apply this mindset to debugging code!
