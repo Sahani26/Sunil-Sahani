@@ -16,7 +16,7 @@ I'm a passionate **Full-Stack Developer** with 6 months  of hands-on experience 
 
 ### 💡 Projects
 Here are a few projects I've worked on:
-- **[Project 1](www.com)**: Brief description of the project.
+- **[Project 1](#)**: Brief description of the project.
 - **[Project 2](#)**: Brief description of the project.
 - **[Project 3](#)**: Brief description of the project.
 
