@@ -21,7 +21,7 @@ Here are a few projects I've worked on:
 - **[Project 3](#)**: Brief description of the project.
 
 ### 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **LinkedIn:** [sunil-sahani](https://www.linkedin.com/in/sunil-sahani-800875310/)
 - **Email:** [sunilsahani484.com](mailto:sunilsahani484.com)
 
 ### ⚡ Fun Fact
